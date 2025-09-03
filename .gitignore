@@ -1,0 +1,17 @@
+# Ignore log files
+*.log
+
+# Ignore backup files
+*.bak
+*~
+
+# Ignore temporary/swap files
+*.swp
+*.tmp
+
+# Ignore system files
+.DS_Store
+
+# Ignore compiled binaries (if any)
+*.out
+*.exe
